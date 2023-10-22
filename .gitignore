@@ -1,0 +1,23 @@
+# Arquivos gerados automaticamente
+__pycache__/
+
+
+# Diretório de mídia (uploads de arquivos de mídia)
+media/
+
+# Ambiente virtual
+env/
+
+# Arquivos de configuração sensíveis
+local_settings.py
+
+# Arquivos específicos do ambiente de desenvolvimento
+*.vscode/
+__pycache__/
+
+# Cache de ferramentas
+.mypy_cache/
+.pytest_cache/
+
+# Dependências Python
+__pycache__/
